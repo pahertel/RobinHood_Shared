@@ -14,8 +14,9 @@
 --- Strengths are the no commisiona and bringin the yougner generation into the world of investing.
 Weaknesses are poor risk control like the unlimted buying power for options and SEC investigating for not disclosing front running clients with High frequency traders
 
---- *What is the prognosis for this company? Where do they expect to be in the future?*
-They expect to be a major brokerage firm that services miliials and introducing them to new markets and getting people more involved in investments that was done mostly by sofisticated investors.
+*What is the prognosis for this company? Where do they expect to be in the future?*
+
+---They expect to be a major brokerage firm that services miliials and introducing them to new markets and getting people more involved in investments that was done mostly by sofisticated investors.
 
 ### Collaborators
 --- P. Alex Hertel
