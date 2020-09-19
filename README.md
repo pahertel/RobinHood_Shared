@@ -1,10 +1,12 @@
-# RobinHood_Shared
+### Robin Hood Case Study
 
-# H1 RobinHood
+![Logo](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F476463%2Frobinhood-logo.png&w=1200&op=resize)
 
-![Description](https://www.google.com/search?q=robinhood&sxsrf=ALeKk03AFYAKL2MObQTGfPh9fvrepaY2vg:1600536653000&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6qJvV3_XrAhXyguAKHan4BlsQ_AUoA3oECCQQBQ&biw=1918&bih=979#imgrc=Rk_S0oOFjIyalM)
+### Robin Hood Facts & Figures
 
-## H2 Research HobinHood
+--- Robinhood started was founded in 2013 by Vladimir Tenev and Baiju Bhatt with their headquarters in Menlo Park, California.  They are a financial services company that offers the ability to invest in stocks, ETFs, and options through Robinhood financial and crypto trading through Robinhood crypto.  They operate entirely online, without and brick and mortar stores.
+
+--  Operating entirely online, Robinhood is able to offer no-fee trading and ultra-competetive interest rates on cash deposits due to low overhead cost.  Additionally, they offer the ability to trade from everywhere: phones, tablets, computers and even watches. 
 
 
 Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
