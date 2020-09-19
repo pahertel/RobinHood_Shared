@@ -17,7 +17,8 @@ Weaknesses are poor risk control like the unlimted buying power for options and 
 --- *What is the prognosis for this company? Where do they expect to be in the future?*
 They expect to be a major brokerage firm that services miliials and introducing them to new markets and getting people more involved in investments that was done mostly by sofisticated investors.
 
-P. Alex Hertel
-Gregory Terrinoni
+### Collaborators
+--- P. Alex Hertel
+--- Gregory Terrinoni
 
-### H3 
+ 
