@@ -9,9 +9,9 @@
 ---  Operating entirely online, Robinhood is able to offer no-fee trading and ultra-competetive interest rates on cash deposits due to low overhead cost.  Additionally, they offer the ability to trade from everywhere: phones, tablets, computers and even watches. 
 
 
---- Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+*Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?***
 
---- *Strengths are the no commisiona and bringin the yougner generation into the world of investing.*
+--- Strengths are the no commisiona and bringin the yougner generation into the world of investing.
 Weaknesses are poor risk control like the unlimted buying power for options and SEC investigating for not disclosing front running clients with High frequency traders
 
 --- *What is the prognosis for this company? Where do they expect to be in the future?*
